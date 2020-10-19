@@ -1,0 +1,35 @@
+this is result on sample_input with queue sized - 4.
+
+input:
+(2,10,3) (3,4,12)
+(3,3,10)
+
+procesess:
+amount - 2 slack - 10 value - 3 time - 1 
+amount - 3 slack - 4 value - 12 time - 1 
+amount - 3 slack - 3 value - 10 time - 2 
+
+time units: 2
+
+starting transimission... 
+
+process dropped
+
+12 added to total value
+
+process dropped
+
+process dropped
+
+10 added to total value
+
+12 added to total value
+
+3 added to total value
+
+3 added to total value
+
+
+total arrived processes - 5, total dropped processes - 3,
+total transmited processes - 8, total transimitted value - 40.
+
